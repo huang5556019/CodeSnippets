@@ -22,7 +22,7 @@ task.resume()
 	<key>IDECodeSnippetSummary</key>
 	<string>Swift HTTP Request With Delegate set</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Swift URLSession With Delegate</string>
+	<string>swift-urlsession-delegate</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

@@ -24,8 +24,10 @@
 	<string>8BBED35F-461D-418F-A2E1-3CCF058B4814</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
-	<key>IDECodeSnippetTitle</key>
+	<key>IDECodeSnippetSummary</key>
 	<string>sizeThatFits:</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>sizeThatFits</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

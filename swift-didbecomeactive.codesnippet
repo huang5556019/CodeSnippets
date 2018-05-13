@@ -15,9 +15,9 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>UIApplicationDidBecomeActiveNotification observer snippet for Swift</string>
-	<key>IDECodeSnippetTitle</key>
 	<string>Swift add DidBecomeActive notification observer</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>swift-didbecomeactive</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

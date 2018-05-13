@@ -17,8 +17,10 @@
 	<string>7FA93830-68A9-4F6F-B87E-F9304B210C4B</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
-	<key>IDECodeSnippetTitle</key>
+	<key>IDECodeSnippetSummary</key>
 	<string>viewDidDisappear:</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>viewDidDisappear</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

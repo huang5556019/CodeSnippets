@@ -32,7 +32,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>用来写 exchange implementations 的 load 方法模板</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>exchange method implementations in +load</string>
+	<string>exchangeImplementation</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

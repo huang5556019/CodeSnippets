@@ -14,8 +14,10 @@
 	<string>95ACDF4B-E74F-4A04-9774-8644C48E20DC</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
-	<key>IDECodeSnippetTitle</key>
+	<key>IDECodeSnippetSummary</key>
 	<string>static const value</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>static</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

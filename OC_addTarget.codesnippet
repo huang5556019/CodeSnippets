@@ -14,8 +14,10 @@
 	<string>799325FD-C68C-4BD4-AFE5-F398D97107F6</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
-	<key>IDECodeSnippetTitle</key>
+	<key>IDECodeSnippetSummary</key>
 	<string>UIControl Add Target</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>addtarget</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

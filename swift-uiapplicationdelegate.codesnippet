@@ -38,9 +38,9 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Commonly used app life cycle methods</string>
-	<key>IDECodeSnippetTitle</key>
 	<string>Swift - UIApplication Delegate methods</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>swift-uiapplicationdelegate</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

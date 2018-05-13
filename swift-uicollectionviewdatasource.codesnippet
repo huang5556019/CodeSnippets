@@ -14,16 +14,16 @@
         func numberOfSections(in collectionView: UICollectionView) -&gt; Int {
             return &lt;#numberOfSections#&gt;
         }
-	
+    
         func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -&gt; Int {
-	    // TODO:- Required Method
+        // TODO:- Required Method
             return &lt;#numberOfItems#&gt;
         }
 
-	func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -&gt; UICollectionViewCell {
+    func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -&gt; UICollectionViewCell {
             let cell = collectionView.dequeueReusableCell(withReuseIdentifier: &lt;#identifier#&gt;, for: indexPath)
             configureCell(cell: cell, forItemAt: indexPath)
-	    // TODO:- Required Method
+        // TODO:- Required Method
             return cell
         }
 
@@ -42,7 +42,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>UICollectionViewDataSource snippet for Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Swift UICollectionViewDataSource</string>
+	<string>swift-uicollectionviewdatasource</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

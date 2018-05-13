@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>__weakSelf</string>
+	<string>weakSelf</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>CodeBlock</string>
@@ -14,6 +14,8 @@
 	<string>1AD3496A-7B93-4B60-9C5D-E54FC734E544</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>weakSelf</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>weakSelf</string>
 	<key>IDECodeSnippetUserSnippet</key>

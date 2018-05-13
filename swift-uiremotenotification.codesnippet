@@ -15,8 +15,8 @@
 //    UIApplication.shared.registerForRemoteNotifications()
     
     // Ask user for allowed notification types
-//	  let settings = UIUserNotificationSettings(types: [.alert, .badge, .sound], categories: nil)
-//	  UIApplication.shared.registerUserNotificationSettings(settings)
+//      let settings = UIUserNotificationSettings(types: [.alert, .badge, .sound], categories: nil)
+//      UIApplication.shared.registerUserNotificationSettings(settings)
     
     func application(_ application: UIApplication, didRegisterForRemoteNotificationsWithDeviceToken deviceToken: Data) {
         print("Successfully egistered for Remote Notifications with token: \(deviceToken)")
@@ -36,7 +36,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>UIRemoteNotification registration and handling snippet for Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Swift UIRemoteNotification</string>
+	<string>swift-uiremotenotification</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

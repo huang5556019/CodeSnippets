@@ -22,7 +22,7 @@ task.resume()
 	<key>IDECodeSnippetSummary</key>
 	<string>Swift Simple HTTP Request</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Swift URLSession DataTask</string>
+	<string>swift-urlsession-datatask</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
