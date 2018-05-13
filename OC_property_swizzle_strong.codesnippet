@@ -21,8 +21,10 @@
 	<string>11202851-7F95-4B80-9E01-ED9D300457E4</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
-	<key>IDECodeSnippetTitle</key>
+	<key>IDECodeSnippetSummary</key>
 	<string>用swizzle方式创建strong类型的property的getter/setter</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>propertySwizzleStrong</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
